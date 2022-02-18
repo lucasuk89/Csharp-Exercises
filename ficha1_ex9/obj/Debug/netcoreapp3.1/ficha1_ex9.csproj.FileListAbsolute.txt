@@ -1,0 +1,13 @@
+/Users/lucasferrazmartins/Projects/ficha1_ex9/bin/Debug/netcoreapp3.1/ficha1_ex9.deps.json
+/Users/lucasferrazmartins/Projects/ficha1_ex9/bin/Debug/netcoreapp3.1/ficha1_ex9.runtimeconfig.json
+/Users/lucasferrazmartins/Projects/ficha1_ex9/bin/Debug/netcoreapp3.1/ficha1_ex9.runtimeconfig.dev.json
+/Users/lucasferrazmartins/Projects/ficha1_ex9/bin/Debug/netcoreapp3.1/ficha1_ex9.dll
+/Users/lucasferrazmartins/Projects/ficha1_ex9/bin/Debug/netcoreapp3.1/ficha1_ex9.pdb
+/Users/lucasferrazmartins/Projects/ficha1_ex9/obj/Debug/netcoreapp3.1/ficha1_ex9.csproj.AssemblyReference.cache
+/Users/lucasferrazmartins/Projects/ficha1_ex9/obj/Debug/netcoreapp3.1/ficha1_ex9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasferrazmartins/Projects/ficha1_ex9/obj/Debug/netcoreapp3.1/ficha1_ex9.AssemblyInfoInputs.cache
+/Users/lucasferrazmartins/Projects/ficha1_ex9/obj/Debug/netcoreapp3.1/ficha1_ex9.AssemblyInfo.cs
+/Users/lucasferrazmartins/Projects/ficha1_ex9/obj/Debug/netcoreapp3.1/ficha1_ex9.csproj.CoreCompileInputs.cache
+/Users/lucasferrazmartins/Projects/ficha1_ex9/obj/Debug/netcoreapp3.1/ficha1_ex9.dll
+/Users/lucasferrazmartins/Projects/ficha1_ex9/obj/Debug/netcoreapp3.1/ficha1_ex9.pdb
+/Users/lucasferrazmartins/Projects/ficha1_ex9/obj/Debug/netcoreapp3.1/ficha1_ex9.genruntimeconfig.cache

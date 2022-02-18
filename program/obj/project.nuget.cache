@@ -1,0 +1,68 @@
+{
+  "version": 2,
+  "dgSpecHash": "BRlRJrws/wXH6w7VfvU/rz61rnhS/Mr5IONzjeh2xGb1UTTDwPE7KB0vTzONshawkkuP5xFL1sMuWz9U5eyh4Q==",
+  "success": true,
+  "projectFilePath": "/Users/lucasferrazmartins/Projects/program/program.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucasferrazmartins/.nuget/packages/database/2.5.0/database.2.5.0.nupkg.sha512",
+    "/Users/lucasferrazmartins/.nuget/packages/microsoft.bcl/1.1.6/microsoft.bcl.1.1.6.nupkg.sha512",
+    "/Users/lucasferrazmartins/.nuget/packages/microsoft.bcl.async/1.0.165/microsoft.bcl.async.1.0.165.nupkg.sha512",
+    "/Users/lucasferrazmartins/.nuget/packages/microsoft.bcl.build/1.0.10/microsoft.bcl.build.1.0.10.nupkg.sha512",
+    "/Users/lucasferrazmartins/.nuget/packages/mysqlconnector/2.1.5/mysqlconnector.2.1.5.nupkg.sha512",
+    "/Users/lucasferrazmartins/.nuget/packages/newtonsoft.json/8.0.3/newtonsoft.json.8.0.3.nupkg.sha512",
+    "/Users/lucasferrazmartins/.nuget/packages/pclstorage/1.0.2/pclstorage.1.0.2.nupkg.sha512",
+    "/Users/lucasferrazmartins/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Database 2.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Database",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Bcl 1.1.6' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Bcl",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Bcl.Async 1.0.165' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Bcl.Async",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 8.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'PCLStorage 1.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "PCLStorage",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

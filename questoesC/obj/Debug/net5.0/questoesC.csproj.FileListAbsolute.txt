@@ -1,0 +1,15 @@
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/bin/Debug/net5.0/questoesC.deps.json
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/bin/Debug/net5.0/questoesC.runtimeconfig.json
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/bin/Debug/net5.0/questoesC.runtimeconfig.dev.json
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/bin/Debug/net5.0/questoesC.dll
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/bin/Debug/net5.0/ref/questoesC.dll
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/bin/Debug/net5.0/questoesC.pdb
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/obj/Debug/net5.0/questoesC.csproj.AssemblyReference.cache
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/obj/Debug/net5.0/questoesC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/obj/Debug/net5.0/questoesC.AssemblyInfoInputs.cache
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/obj/Debug/net5.0/questoesC.AssemblyInfo.cs
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/obj/Debug/net5.0/questoesC.csproj.CoreCompileInputs.cache
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/obj/Debug/net5.0/questoesC.dll
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/obj/Debug/net5.0/ref/questoesC.dll
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/obj/Debug/net5.0/questoesC.pdb
+/Users/lucasferrazmartins/Desktop/Firebrandbootcamp/ex/questoesC/obj/Debug/net5.0/questoesC.genruntimeconfig.cache

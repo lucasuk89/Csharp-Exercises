@@ -1,0 +1,15 @@
+/Users/lucasferrazmartins/Projects/ficha1_ex2/obj/Debug/net5.0/ficha1_ex2.csproj.AssemblyReference.cache
+/Users/lucasferrazmartins/Projects/ficha1_ex2/obj/Debug/net5.0/ficha1_ex2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasferrazmartins/Projects/ficha1_ex2/obj/Debug/net5.0/ficha1_ex2.AssemblyInfoInputs.cache
+/Users/lucasferrazmartins/Projects/ficha1_ex2/obj/Debug/net5.0/ficha1_ex2.AssemblyInfo.cs
+/Users/lucasferrazmartins/Projects/ficha1_ex2/obj/Debug/net5.0/ficha1_ex2.csproj.CoreCompileInputs.cache
+/Users/lucasferrazmartins/Projects/ficha1_ex2/bin/Debug/net5.0/ficha1_ex2.deps.json
+/Users/lucasferrazmartins/Projects/ficha1_ex2/bin/Debug/net5.0/ficha1_ex2.runtimeconfig.json
+/Users/lucasferrazmartins/Projects/ficha1_ex2/bin/Debug/net5.0/ficha1_ex2.runtimeconfig.dev.json
+/Users/lucasferrazmartins/Projects/ficha1_ex2/bin/Debug/net5.0/ficha1_ex2.dll
+/Users/lucasferrazmartins/Projects/ficha1_ex2/bin/Debug/net5.0/ref/ficha1_ex2.dll
+/Users/lucasferrazmartins/Projects/ficha1_ex2/bin/Debug/net5.0/ficha1_ex2.pdb
+/Users/lucasferrazmartins/Projects/ficha1_ex2/obj/Debug/net5.0/ficha1_ex2.dll
+/Users/lucasferrazmartins/Projects/ficha1_ex2/obj/Debug/net5.0/ref/ficha1_ex2.dll
+/Users/lucasferrazmartins/Projects/ficha1_ex2/obj/Debug/net5.0/ficha1_ex2.pdb
+/Users/lucasferrazmartins/Projects/ficha1_ex2/obj/Debug/net5.0/ficha1_ex2.genruntimeconfig.cache
